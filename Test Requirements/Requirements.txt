@@ -1,0 +1,16 @@
+Test Requirement 1: Validating the Header of the webpage https://github.com/rails
+
+Testcase : testcase1.java
+
+Testcase Status: passed
+
+
+Test Requirement 2: Getting the data from API https://api.github.com/search/repositories?q=org:rails+rails by sending 
+                    Request and from Response storing the data in notepad.
+                    Stored 1 field data: total_count
+                                          
+                     validating this field from notepad to webpage search method.
+
+Testcase : test1.java
+
+Testcase status: passed
