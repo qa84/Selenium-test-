@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8989" started-at="2020-03-17T23:32:30 CDT" finished-at="2020-03-17T23:32:39 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8989" started-at="2020-03-17T23:32:30 CDT" finished-at="2020-03-17T23:32:39 CDT">
+      <class name="testng.test1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testng.test1@47ef968d]" name="launch" is-config="true" duration-ms="5672" started-at="2020-03-17T23:32:30 CDT" finished-at="2020-03-17T23:32:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="readfromnotepad()[pri:1, instance:testng.test1@47ef968d]" name="readfromnotepad" duration-ms="9" started-at="2020-03-17T23:32:36 CDT" finished-at="2020-03-17T23:32:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readfromnotepad -->
+        <test-method status="PASS" signature="verify()[pri:2, instance:testng.test1@47ef968d]" name="verify" duration-ms="2550" started-at="2020-03-17T23:32:36 CDT" finished-at="2020-03-17T23:32:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testng.test1@47ef968d]" name="close" is-config="true" duration-ms="729" started-at="2020-03-17T23:32:38 CDT" finished-at="2020-03-17T23:32:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testng.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
